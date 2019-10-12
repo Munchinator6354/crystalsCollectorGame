@@ -16,6 +16,10 @@ h1 {
     height: auto;
 }
 
+.centerGem {
+    margin: auto;
+    width: 60%;
+}
 
 .gemImage {
     
@@ -34,5 +38,4 @@ h1 {
     border-width: 3px;
     border-color: rgb(0, 0, 0);
     padding: 10px;
-
 }
